@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 **MediPass** is a modern, cross-platform digital health application built with Flutter. It serves as a secure, centralized hub for your personal medical information — giving you instant access to your health records, a scannable QR emergency ID, and an intelligent AI-powered skin analysis tool, all from one place.
 
