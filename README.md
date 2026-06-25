@@ -42,13 +42,6 @@ The highlight of MediPass — an intelligent skin health scanner with **two mode
 | **On-Device Analyzer** | Uses pixel-level computer vision (redness ratio + texture variance) to detect conditions | ❌ No |
 | **Cloud AI Analyzer** | Powered by **Google Gemini 2.5 Flash** for deep multimodal analysis | ✅ Yes (Free API Key) |
 
-**Detectable Conditions:**
-- Acne Vulgaris
-- Atopic Dermatitis (Eczema)
-- Pigmented Lesion / Keratosis
-- Contact Dermatitis / Rash
-- Healthy Skin (confirmed)
-
 Each result includes: **Condition Name**, **Confidence Score**, **Severity Level**, **Observed Characteristics**, and **Wellness Recommendations**.
 
 ### 📁 Medical Records
