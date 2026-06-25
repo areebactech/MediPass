@@ -234,7 +234,7 @@ dependencies:
 
 ## 👩‍💻 Developer
 
-**Areeba** — Flutter Developer  
+**Areeba**  
 Project: MediPass — Digital Health Companion  
 Platform: Android | iOS | Web  
 Firebase Project: `medi-pass`
